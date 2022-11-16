@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/fxtlabs/date" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/gonum/blas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/gonum/lapack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/gonum/matrix" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/google/go-cmp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/guptarohit/asciigraph" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/jtolds/gls" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/mattn/go-runewidth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/olekukonko/tablewriter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/rivo/uniseg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/rocketlaunchr/dataframe-go" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/sjwhitworth/golearn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/smartystreets/assertions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/smartystreets/goconvey" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/exp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/sync" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/gonum.org/v1/gonum" vcs="Git" />
+  </component>
+</project>
